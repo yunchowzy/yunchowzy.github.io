@@ -2,5 +2,5 @@
 
 <script>
   //window.location.href="http://yunchow.com";
-  setTimeout('window.location.href="http://yunchow.com"', 10000);
+  setTimeout('window.location.href="http://zhouyun.me"', 10000);
 </script>
