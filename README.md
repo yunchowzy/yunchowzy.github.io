@@ -1,5 +1,5 @@
-#### 既然选择了远方，便只顾风雨兼程
+#### Life was like a box of chocolates, you never know what you're gonna get.
 
 <script>
-  alert("『我他妈的要上天』")
+  setTimeout('window.location.href="http://zhouyun.com"', 3000);
 </script>
